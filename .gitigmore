@@ -5,3 +5,4 @@ __pycache__
 */__pycache__/
 db.sqlite3
 .DS_Store
+config/__pycache__/*.pyc
