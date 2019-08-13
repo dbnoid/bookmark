@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="088f37a4-f7cb-46af-a089-84e1de4e5e3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,7 +38,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bookmark/admin.py" />
-        <option value="$PROJECT_DIR$/config/urls.py" />
         <option value="$PROJECT_DIR$/bookmark/templetes/bookmark/bookmark_list.html" />
         <option value="$PROJECT_DIR$/bookmark/urls.py" />
         <option value="$PROJECT_DIR$/bookmark/models.py" />
@@ -51,6 +51,7 @@
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/.gitigmore" />
         <option value="$PROJECT_DIR$/config/settings.py" />
+        <option value="$PROJECT_DIR$/config/urls.py" />
       </list>
     </option>
   </component>
@@ -72,6 +73,17 @@
             <path>
               <item name="bookmark" type="b2602c69:ProjectViewProjectNode" />
               <item name="bookmark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookmark" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookmark" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmark" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bookmark" type="b2602c69:ProjectViewProjectNode" />
@@ -127,7 +139,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-1088" width="1873" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -138,7 +150,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32917964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -154,26 +166,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bookmark/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -255,8 +247,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="505">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmark/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
